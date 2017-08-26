@@ -1,0 +1,173 @@
+
+
+
+cmd16 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd16.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd17 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd17.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd18 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd18.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd19 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd19.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd20 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd20.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd21 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd21.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd22 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd22.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd23 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd23.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd24 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd24.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd25 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd25.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd26 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd26.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd27 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd27.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd28 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd28.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd29 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd29.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd30 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd30.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd31 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd31.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd32 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd32.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd33 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd33.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd34 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd34.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd35 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd35.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd36 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd36.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd37 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd37.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd38 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd38.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd39 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd39.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd40 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd40.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd41 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd41.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd42 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd42.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd43 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd43.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd44 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd44.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd45 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd45.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd46 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd46.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd47 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd47.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd48 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd48.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
+cmd49 := exec.Command("go", "get", "github.com/u-root/u-root") 
+ err := cmd49.Run() 
+ if err != nil { 
+ log.Fatal(err)
+ }
